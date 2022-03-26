@@ -1,0 +1,11 @@
+{
+    "hats": [
+        {
+            "name": "Test",
+            "author": "これはテストです",
+            "condition": "None",
+            "resource": "Test.png",
+            "climbresource": "Test_climb.png"
+        }
+    ]
+}

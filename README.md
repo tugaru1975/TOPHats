@@ -45,7 +45,7 @@ HatURL = https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw
 という部分があるので`/ユーザー名/`と`/プロジェクト名/`の部分をそれぞれ自身のgithubユーザー名とプロジェクト名(デフォルトは`TOPHats`)にしてください。  
 そしてAmongUsを開いて導入されていたら完了です。
 ### 5(任意).TOPでの実装
-自身のプロジェクトをTOPにプルーリクエストしていただければTOPの方で実装いたします。
+自身のプロジェクトをこのプロジェクトにプルーリクエストしていただければTOPの方で実装いたします。
 # 自作ハットの試し方
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  

@@ -1,5 +1,5 @@
 # 自作ハットの追加方法
-### 1.このリポジトリをForkする
+### 1.このリポジトリを[Fork](https://github.com/tugaru1975/TOPHats/fork)する
 ### 2.Forkしたリポジトリの`hats`に自作した帽子スキンをアップロード
 ### 3.アップロードしたら`CustomHats.json`にコードを追加する
 ```

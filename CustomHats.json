@@ -48,7 +48,7 @@
             "author": "tugaru",
             "condition": "None",
             "resource": "applesHat.png",
-            "climbresource": "applesHat_climb.png"
+            "climbresource": "applesHat_climb.png",
             "bounce": true
         },
         {

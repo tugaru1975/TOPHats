@@ -23,9 +23,9 @@
 `"author"` : 制作者名  
 `"condition"` : よくわからない。`"None"`で機能する。  
 `"resource"` : 帽子画像を決められる。  
-`"backflipresource"` : クルーの背面で`"backresource"`より前側の帽子画像を決められる。  
+`"backflipresource"` : クルーの反対向きでの背面の帽子画像を決められる。  
 `"backresource"` : クルーの背面の帽子画像を決められる。  
-`"flipresource"` : クルーより前側の帽子画像を決められる。  
+`"flipresource"` : クルーの反対向きでの帽子画像を決められる。  
 `"climbresource"` : クルーの梯子の帽子画像を決められる。  
 `"bounce": true` : 帽子を跳ねさせることが出来ます。  
 `"adaptive": true` : クルーの色に帽子画像を変えることが出来ます。

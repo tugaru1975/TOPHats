@@ -49,6 +49,7 @@
             "condition": "None",
             "resource": "applesHat.png",
             "climbresource": "applesHat_climb.png"
+            "bounce": true
         },
         {
             "name": "ツアーガイド",

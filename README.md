@@ -34,6 +34,7 @@ AmongUsファイルのデフォルト状態なら
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
 Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、  
 `BepInEx` > `config` > `com.tugaru.TownOfPlus.cfg`を開きます。  
+**開けない場合は`.cfg`を`.txt`にします。**  
 次に下にスクロールしていくと
 ```
 [HatURL]
@@ -43,6 +44,7 @@ Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、
 HatURL = https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
 ```  
 という部分があるので`/ユーザー名/`と`/プロジェクト名/`の部分をそれぞれ自身のgithubユーザー名とプロジェクト名(デフォルトは`TOPHats`)にしてください。  
+**`.txt`にしている場合は`.cfg`に戻してください。**  
 そしてAmongUsを開いて導入されていたら完了です。
 ### 5(任意).TOPでの実装
 自身のプロジェクトをこのプロジェクトにプルーリクエストしていただければTOPの方で実装いたします。

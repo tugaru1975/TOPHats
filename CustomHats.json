@@ -58,6 +58,15 @@
             "resource": "flag_adaptive.png",
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
+        },
+                {
+            "name": "私は寝ていません",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "eyemaskzzz_adaptive.png",
+            "flipresource": "eyemaskzzz_flip_adaptive.png",
+            "climbresource": "eyemaskzzz_climb.png",
+            "adaptive": true
         }
     ]
 }

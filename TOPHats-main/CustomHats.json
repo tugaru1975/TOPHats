@@ -1,0 +1,72 @@
+{
+    "hats": [
+        {
+            "name": "猫耳",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "CatHat_adaptive.png",
+            "climbresource": "CatHat_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "医務室へ急げ!!",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "DeadBody_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "守護霊",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "GuardianAngel_adaptive.png",
+            "backresource": "GuardianAngel_back_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "明確な殺意",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "ImposterHat_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "レポート連打マン",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "ReportCrew_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "ボールは友達",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "SoccerBall.png"
+        },
+        {
+            "name": "りんご",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "applesHat.png",
+            "climbresource": "applesHat_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ツアーガイド",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "flag_adaptive.png",
+            "climbresource": "flag_climb_adaptive.png",
+            "adaptive": true
+        }
+        {
+            "name": "私は寝ていません",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "eyemaskzzz_adaptive.png",
+            "flipresource": "eyemaskzzz_flip_adaptive.png",
+            "climbresource": "eyemaskzzz_climb.png",
+            "adaptive": true
+        },
+    ]
+}

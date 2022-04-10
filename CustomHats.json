@@ -105,8 +105,8 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "DoubleGun_adaptive.png",
-            "backresource": "DoubleGun_adaptive_climb.png",
-            "climbresource": "DoubleGun_back_adaptive",
+            "backresource": "DoubleGun_back_adaptive.png",
+            "climbresource": "DoubleGun_adaptive_climb.png",
             "adaptive": true
         },
         {

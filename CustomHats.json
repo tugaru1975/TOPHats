@@ -75,6 +75,22 @@
             "condition": "None",
             "resource": "Angel.png",
             "climbresource": "Angel_climb.png"
+        },
+        {
+            "name": "ベント監視",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "Vent_bounce.png",
+            "backresource": "Vent_back_bounce.png",
+            "climbresource": "Vent_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "影分身の術!!",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "Kagebunshin_adaptive.png",
+            "backresource": "Kagebunshin_back_adaptive.png"
         }
     ]
 }

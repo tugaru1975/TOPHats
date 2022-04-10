@@ -90,7 +90,8 @@
             "author": "tugaru",
             "condition": "None",
             "resource": "Kagebunshin_adaptive.png",
-            "backresource": "Kagebunshin_back_adaptive.png"
+            "backresource": "Kagebunshin_back_adaptive.png",
+            "adaptive": true
         }
     ]
 }

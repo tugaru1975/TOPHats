@@ -41,7 +41,8 @@
             "name": "ボールは友達",
             "author": "tugaru",
             "condition": "None",
-            "resource": "SoccerBall.png"
+            "resource": "SoccerBall.png",
+            "bounce": true
         },
         {
             "name": "りんご",
@@ -59,7 +60,7 @@
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
         },
-                {
+        {
             "name": "私は寝ていません",
             "author": "やちゃじゃくや",
             "condition": "None",
@@ -67,6 +68,53 @@
             "flipresource": "eyemaskzzz_flip_adaptive.png",
             "climbresource": "eyemaskzzz_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "お迎え来ちゃった...",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "Angel.png",
+            "climbresource": "Angel_climb.png"
+        },
+        {
+            "name": "ベント監視",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "Vent_bounce.png",
+            "backresource": "Vent_back_bounce.png",
+            "climbresource": "Vent_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "影分身の術!!",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "Kagebunshin_adaptive.png",
+            "backresource": "Kagebunshin_back_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "どんな状況でもプレイ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "RedPlay.png",
+            "climbresource": "RedPlay_climb.png",
+        },
+        {
+            "name": "ダブルキラー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "DoubleGun_adaptive.png",
+            "backresource": "DoubleGun_adaptive_climb.png",
+            "climbresource": "DoubleGun_back_adaptive",
+            "adaptive": true
+        },
+        {
+            "name": "ちょっと武器庫で借りてきた",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "AK.png",
+            "climbresource": "AK_climb.png",
         }
     ]
 }

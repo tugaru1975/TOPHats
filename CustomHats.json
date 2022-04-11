@@ -92,6 +92,29 @@
             "resource": "Kagebunshin_adaptive.png",
             "backresource": "Kagebunshin_back_adaptive.png",
             "adaptive": true
+        },
+        {
+            "name": "どんな状況でもプレイ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "RedPlay.png",
+            "climbresource": "RedPlay_climb.png",
+        },
+        {
+            "name": "ダブルキラー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "DoubleGun_adaptive.png",
+            "backresource": "DoubleGun_back_adaptive.png",
+            "climbresource": "DoubleGun_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ちょっと武器庫で借りてきた",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "AK.png",
+            "climbresource": "AK_climb.png",
         }
     ]
 }

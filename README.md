@@ -47,7 +47,8 @@ HatURL = https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw
 **`.txt`にしている場合は`.cfg`に戻してください。**  
 そしてAmongUsを開いて導入されていたら完了です。
 ### 5(任意).TOPでの実装
-自身のプロジェクトをこのプロジェクトにプルーリクエストしていただければTOPの方で実装いたします。
+自身のプロジェクトをこのプロジェクトにプルーリクエストしていただければTOPの方で実装いたします。  
+**オリジナルの帽子を削除している場合は元に戻してからプルリクしていただけると嬉しいです。**
 # 自作ハットの試し方
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  

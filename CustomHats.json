@@ -146,5 +146,55 @@
             "resource": "StarRod.png",
             "climbresource": "StarRod_climb.png",
         },
+        {
+            "name": "おにぎり",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "onigiri.png",
+            "climbresource": "onigiri_climb.png",
+        },
+        {
+            "name": "サンドイッチ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Hamsand.png",
+            "climbresource": "Hamsand_climb.png",
+        },
+        {
+            "name": "4号",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "koronba4gou.png",
+            "flipresource": "koronba4gou_flip.png",
+        },
+        {
+            "name": "まだですか?",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "madadesuka_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "宇宙人だよ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "nayutan_adaptive.png",
+            "climbresource": "nayutan_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "軟禁コースター管理者",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "nobaman.png",
+            "climbresource": "nobaman_climb.png",
+        },
+        {
+            "name": "テルミービート",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "tellmebeat.png",
+            "climbresource": "tellmebeat_climb.png",
+        },
     ]
 }

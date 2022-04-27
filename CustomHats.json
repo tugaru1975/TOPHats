@@ -121,15 +121,6 @@
             "adaptive": true,
         },
         {
-            "name": "ECHO",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "ECHO_adaptive.png",
-            "flipresource": "ECHO_adaptive_flip.png",
-            "climbresource": "ECHO_climb.png",
-            "adaptive": true,
-        },
-        {
             "name": "ょぅじょ",
             "author": "やちゃじゃくや",
             "condition": "None",
@@ -148,6 +139,15 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "Sairiumu_adaptive.png",
+            "adaptive": true,
+        },
+        {
+            "name": "ECHO",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "ECHO_adaptive.png",
+            "flipresource": "ECHO_adaptive_flip.png",
+            "climbresource": "ECHO_climb.png",
             "adaptive": true,
         },
     ]

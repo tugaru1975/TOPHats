@@ -124,9 +124,10 @@
             "name": "ECHO",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "ECHO.png",
-            "flipresource": "ECHO_flip.png",
+            "resource": "ECHO_adaptive.png",
+            "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
+            "adaptive": true,
         },
         {
             "name": "ょぅじょ",

@@ -112,5 +112,42 @@
             "resource": "tellmebeat.png",
             "climbresource": "tellmebeat_climb.png",
         },
+        {
+            "name": "配信中",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Live_adaptive.png",
+            "climbresource": "Live_adaptive_climb.png",
+            "adaptive": true,
+        },
+        {
+            "name": "ECHO",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "ECHO.png",
+            "flipresource": "ECHO_flip.png",
+            "climbresource": "ECHO_climb.png",
+        },
+        {
+            "name": "ょぅじょ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "YoJo.png",
+            "climbresource": "YoJo_climb.png",
+        },
+        {
+            "name": "自分へ催眠術",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Saimin_adaptive.png",
+            "adaptive": true,
+        },
+        {
+            "name": "サイリウム",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Sairiumu_adaptive.png",
+            "adaptive": true,
+        },
     ]
 }

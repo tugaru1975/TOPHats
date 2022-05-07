@@ -53,5 +53,5 @@ HatURL = https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
 Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、  
-`TOPHats`>`Test`のなかに自作した帽子画像を入れると試すことが可能です。  
+`TownOfPlus`>`SkinTest`のなかに自作した帽子画像を入れると試すことが可能です。  
 この時`帽子名_adptive.png`のようにすると[コマンド](#コードの説明)を対応させることが出来ます。

@@ -275,8 +275,8 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "Stand_adaptive.png",
-            "backresource": "Stand_adaptive_flip.png",
-            "flipresource": "Stand_adaptive_back.png",
+            "backresource": "Stand_adaptive_back.png",
+            "flipresource": "Stand_adaptive_flip.png",
             "adaptive": true
         },
     ]

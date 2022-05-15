@@ -245,7 +245,7 @@
             "name": "酸素をとっておこう",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": Sub_o2.png",
+            "resource": "Sub_o2.png",
         },
         {
             "name": "観光には水分補給",

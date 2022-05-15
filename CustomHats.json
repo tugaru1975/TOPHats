@@ -226,15 +226,6 @@
             "adaptive": true
         },
         {
-            "name": "ECHO",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "ECHO_adaptive.png",
-            "flipresource": "ECHO_adaptive_flip.png",
-            "climbresource": "ECHO_climb.png",
-            "adaptive": true
-        },
-        {
             "name": "モップ掛けを忘れずに",
             "author": "やちゃじゃくや",
             "condition": "None",
@@ -279,5 +270,14 @@
             "flipresource": "Stand_adaptive_flip.png",
             "adaptive": true
         },
+        {
+            "name": "ECHO",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "ECHO_adaptive.png",
+            "flipresource": "ECHO_adaptive_flip.png",
+            "climbresource": "ECHO_climb.png",
+            "adaptive": true
+        }
     ]
 }

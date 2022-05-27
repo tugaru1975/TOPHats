@@ -291,6 +291,7 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "10k.png",
+            "adaptive": true
         },
         {
             "name": "クルージュース",

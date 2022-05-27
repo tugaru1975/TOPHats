@@ -287,13 +287,6 @@
             "climbresource": "Jevil_climb.png",
         },
         {
-            "name": "銀の盾",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "10k_adaptive.png",
-            "adaptive": true
-        },
-        {
             "name": "クルージュース",
             "author": "やちゃじゃくや",
             "condition": "None",
@@ -307,6 +300,13 @@
             "condition": "None",
             "resource": "gomibako.png",
             "climbresource": "gomibako_climb.png",
+        },
+        {
+            "name": "銀の盾",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "10k_adaptive.png",
+            "adaptive": true
         },
         {
             "name": "ウボァ",

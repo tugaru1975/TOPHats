@@ -278,6 +278,42 @@
             "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
             "adaptive": true
-        }
+        },
+        {
+            "name": "ジェビル",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Jevil.png",
+            "climbresource": "Jevil_climb.png",
+        },
+        {
+            "name": "銀の盾",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "10k.png",
+        },
+        {
+            "name": "クルージュース",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Juice_adaptive.png",
+            "climbresource": "Juice_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "削除3秒前",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "gomibako.png",
+            "climbresource": "gomibako_climb.png",
+        },
+        {
+            "name": "ウボァ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "uboa.png",
+            "climbresource": "uboa_climb.png",
+            "flipresource": "uboa_flip.png",
+        },
     ]
 }

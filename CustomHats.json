@@ -319,7 +319,6 @@
         {
         "name": "YJ",
         "author": "やちゃじゃくや",
-        "package": "YJ*White",
         "condition": "None",
         "resource": "YJ_adaptive.png",
         "climbresource": "uboa_climb.png",

@@ -85,15 +85,6 @@
             "adaptive": true
         },
         {
-            "name": "YJ",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "YJ_adaptive.png",
-            "climbresource": "YJ_adaptive_climb.png",
-            "flipresource": "YJ_adaptive_flip.png",
-            "adaptive": true
-        },
-        {
             "name": "私は寝ていません",
             "author": "やちゃじゃくや",
             "condition": "None",

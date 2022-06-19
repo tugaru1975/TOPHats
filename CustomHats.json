@@ -330,8 +330,8 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "PickaxeHead_adaptive.png",
-            "climbresource": "PickaxeHead_climb.png",
-            "backresource": "PickaxeHead_flip.png"
+            "backresource": "PickaxeHead_flip.png",
+            "climbresource": "PickaxeHead_climb.png"
         },
         {
             "name": "",

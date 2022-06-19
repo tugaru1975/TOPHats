@@ -133,6 +133,13 @@
             "adaptive": true
         },
         {
+            "name": "USBハッカー",
+            "author": "やちゃじゃくや",
+            "condition": "None"
+            "resource": "usbhacker_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "スターロッド",
             "author": "やちゃじゃくや",
             "condition": "None",

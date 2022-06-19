@@ -310,13 +310,6 @@
             "flipresource": "uboa_flip.png",
         },
         {
-            "name": "USBハッカー",
-            "author": "やちゃじゃくや",
-            "condition": "None"
-            "resource": "usbhacker_adaptive.png",
-            "adaptive": true
-        },
-        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "condition": "None",

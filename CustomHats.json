@@ -318,6 +318,28 @@
             "flipresource": "uboa_flip.png",
         },
         {
+            "name": "ドッキングにぼし",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "dokkingniboshi_adaptive.png",
+            "climbresource": "dokkingniboshi_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "頭痛の原因",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "PickaxeHead_adaptive.png",
+            "climbresource": "PickaxeHead_climb.png",
+            "backresource": "PickaxeHead_flip.png"
+        },
+        {
+            "name": "",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "thinking.png"
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "condition": "None",

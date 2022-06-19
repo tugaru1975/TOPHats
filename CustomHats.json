@@ -317,21 +317,6 @@
             "flipresource": "uboa_flip.png",
         },
         {
-            "name": "ドッキングにぼし",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "dokkingniboshi_adaptive.png",
-            "climbresource": "dokkingniboshi_climb.png",
-            "adaptive": true
-        },
-        {
-            "name": "うーむ...?",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "thinking.png",
-            "adaptive": true
-        },
-        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "condition": "None",

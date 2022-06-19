@@ -136,7 +136,7 @@
             "name": "USBハッカー",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "usbhacker_adaptive.png",
+            "resource": "hackers_adaptive.png",
             "adaptive": true
         },
         {

@@ -201,6 +201,7 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "Live_adaptive.png",
+            "flipresource": "Live_adaptive_flip.png",
             "climbresource": "Live_adaptive_climb.png",
             "adaptive": true
         },

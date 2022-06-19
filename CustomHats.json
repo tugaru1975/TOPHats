@@ -337,7 +337,7 @@
             "name": "悩み",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "thinking.png"
+            "resource": "thinking.png"，
             "adaptive": true
         },
         {

@@ -325,19 +325,19 @@
             "adaptive": true
         },
         {
+            "name": "うーむ...?",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "thinking.png",
+            "adaptive": true
+        },
+        {
             "name": "頭痛の原因は？",
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "PickaxeHead.png",
             "backresource": "PickaxeHead_back.png",
             "climbresource": "PickaxeHead_climb.png"
-        },
-        {
-            "name": "うーむ...?",
-            "author": "やちゃじゃくや",
-            "condition": "None",
-            "resource": "thinking.png",
-            "adaptive": true
         },
         {
             "name": "YJ",

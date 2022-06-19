@@ -150,8 +150,8 @@
             "name": "おにぎり",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "onigiri.png",
-            "climbresource": "onigiri_climb.png"
+            "resource": "Mysteryonigiri.png",
+            "climbresource": "Mysteryonigiri_climb.png"
         },
         {
             "name": "サンドイッチ",

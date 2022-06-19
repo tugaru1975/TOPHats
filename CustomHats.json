@@ -330,7 +330,7 @@
             "condition": "None",
             "resource": "PickaxeHead.png",
             "backresource": "PickaxeHead_back.png",
-            "climbresource": "PickaxeHead_climb.png",
+            "climbresource": "PickaxeHead_climb.png"
         },
         {
             "name": "うーむ...?",

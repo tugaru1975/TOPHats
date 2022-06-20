@@ -329,8 +329,8 @@
             "name": "頭痛の原因",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "PickaxeHead_adaptive.png",
-            "backresource": "PickaxeHead_flip.png",
+            "resource": "PickaxeHead.png",
+            "backresource": "PickaxeHead_back.png",
             "climbresource": "PickaxeHead_climb.png"
         },
         {

@@ -353,7 +353,7 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "Kisei.png",
-            "climbresource": Kisei_climb.png",
+            "climbresource": "Kisei_climb.png"
         },
         {
             "name": "パンはおいしい",

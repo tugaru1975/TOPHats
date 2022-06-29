@@ -341,6 +341,28 @@
             "adaptive": true
         },
         {
+            "name": "ハット＆マフラー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "HatsandMuffler_adaptive.png",
+            "climbresource": "HatsandMuffler_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "寄生中",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Kisei.png",
+            "climbresource": Kisei_climb.png",
+        },
+        {
+            "name": "パンはおいしい",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "BreadEat_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "condition": "None",

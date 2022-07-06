@@ -136,7 +136,7 @@
             "name": "USBハッカー",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "hacker_adaptive.png",
+            "resource": "hackers_adaptive.png",
             "adaptive": true
         },
         {
@@ -150,8 +150,8 @@
             "name": "おにぎり",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "onigiri.png",
-            "climbresource": "onigiri_climb.png"
+            "resource": "Mysteryonigiri.png",
+            "climbresource": "Mysteryonigiri_climb.png"
         },
         {
             "name": "サンドイッチ",
@@ -316,6 +316,60 @@
             "resource": "uboa.png",
             "climbresource": "uboa_climb.png",
             "flipresource": "uboa_flip.png",
+        },
+        {
+            "name": "ドッキングにぼし",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "dokkingniboshi_adaptive.png",
+            "climbresource": "dokkingniboshi_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "頭痛の原因",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "PickaxeHead.png",
+            "backresource": "PickaxeHead_back.png",
+            "climbresource": "PickaxeHead_climb.png"
+        },
+        {
+            "name": "悩み",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "thinking.png",
+            "adaptive": true
+        },
+        {
+            "name": "ハット＆マフラー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "HatsandMuffler_adaptive.png",
+            "climbresource": "HatsandMuffler_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "寄生中",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Kisei.png",
+            "climbresource": "Kisei_climb.png"
+        },
+        {
+            "name": "パンはおいしい",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "BreadEat_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "YJ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "YJ_adaptive.png",
+            "climbresource": "YJ_adaptive_climb.png",
+            "flipresource": "YJ_adaptive_flip.png",
+            "adaptive": true
         }
     ]
 }

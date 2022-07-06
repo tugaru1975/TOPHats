@@ -120,7 +120,6 @@
             "author": "tugaru",
             "condition": "None",
             "resource": "keycrew_adaptive.png",
-            "climbresource": "keycrew_adaptive_climb.png",
             "adaptive": true
         },
         {
@@ -239,7 +238,7 @@
             "author": "やちゃじゃくや",
             "condition": "None",
             "resource": "Mysteryonigiri.png",
-            "climbresource": "Mysteryonigiri_climb.png"
+            "climbresource": "Mysteryonigiri__climb.png"
         },
         {
             "name": "サンドイッチ",
@@ -290,7 +289,6 @@
             "condition": "None",
             "resource": "Live_adaptive.png",
             "flipresource": "Live_adaptive_flip.png",
-            "climbresource": "Live_adaptive_climb.png",
             "adaptive": true
         },
         {

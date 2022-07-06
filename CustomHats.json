@@ -104,8 +104,8 @@
             "name": "ハンバーガー一つ",
             "author": "tugaru",
             "condition": "None",
-            "resource": "humburger_bounce.png",
-            "climbresource": "humburger_climb.png",
+            "resource": "hamburger_bounce.png",
+            "climbresource": "hamburger_climb.png",
             "bounce": true
         },
         {

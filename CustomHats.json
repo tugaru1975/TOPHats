@@ -85,6 +85,94 @@
             "adaptive": true
         },
         {
+            "name": "色鉛筆",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "colorpencil_adaptive.png",
+            "climbresource": "colorpencil_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ゴミ箱",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "garbagebox_adaptive.png",
+            "climbresource": "garbagebox_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ハンバーガー一つ",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "humburger_bounce.png",
+            "climbresource": "humburger_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "これで思いっきり",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "hammer_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "鍵となるクルー",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "keycrew_adaptive.png",
+            "climbresource": "keycrew_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "鉛筆",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "pencil.png",
+            "climbresource": "pencil_climb.png"
+        },
+        {
+            "name": "給油タスク中",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "Refuel_bounce.png",
+            "climbresource": "Refuel_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "たぬき",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "tanuki_adaptive.png",
+            "backresource": "tanuki_back_adaptive.png",
+            "climbresource": "tanuki_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "クルーの宝",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "TreasureChest_adaptive.png",
+            "backresource": "TreasureChest_back_adaptive.png",
+            "climbresource": "TreasureChest_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "浮き輪",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "ukiwa_adaptive.png",
+            "climbresource": "ukiwa_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "レントゲン",
+            "author": "tugaru",
+            "condition": "None",
+            "resource": "X-ray_adaptive.png",
+            "climbresource": "X-ray_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
             "name": "私は寝ていません",
             "author": "やちゃじゃくや",
             "condition": "None",
@@ -136,7 +224,7 @@
             "name": "USBハッカー",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "hacker_adaptive.png",
+            "resource": "hackers_adaptive.png",
             "adaptive": true
         },
         {
@@ -150,8 +238,8 @@
             "name": "おにぎり",
             "author": "やちゃじゃくや",
             "condition": "None",
-            "resource": "onigiri.png",
-            "climbresource": "onigiri_climb.png"
+            "resource": "Mysteryonigiri.png",
+            "climbresource": "Mysteryonigiri_climb.png"
         },
         {
             "name": "サンドイッチ",
@@ -316,6 +404,60 @@
             "resource": "uboa.png",
             "climbresource": "uboa_climb.png",
             "flipresource": "uboa_flip.png",
+        },
+        {
+            "name": "ドッキングにぼし",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "dokkingniboshi_adaptive.png",
+            "climbresource": "dokkingniboshi_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "頭痛の原因",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "PickaxeHead.png",
+            "backresource": "PickaxeHead_back.png",
+            "climbresource": "PickaxeHead_climb.png"
+        },
+        {
+            "name": "悩み",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "thinking.png",
+            "adaptive": true
+        },
+        {
+            "name": "ハット＆マフラー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "HatsandMuffler_adaptive.png",
+            "climbresource": "HatsandMuffler_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "寄生中",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Kisei.png",
+            "climbresource": "Kisei_climb.png"
+        },
+        {
+            "name": "パンはおいしい",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "BreadEat_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "YJ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "YJ_adaptive.png",
+            "climbresource": "YJ_adaptive_climb.png",
+            "flipresource": "YJ_adaptive_flip.png",
+            "adaptive": true
         }
     ]
 }

@@ -410,6 +410,11 @@
             "adaptive": true
         },
         {
+            "name": "SUS",
+            "author": "やちゃじゃくや",
+            "resource": "SUS.png"
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",

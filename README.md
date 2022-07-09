@@ -1,4 +1,5 @@
 # 自作ハットの追加方法
+**自身のプロジェクトを作成せずに簡易的に追加したい方は[こちら](#自作ハットの試し方)を利用することも可能です**
 ### 1.このリポジトリを[Fork](https://github.com/tugaru1975/TOPHats/fork)する
 ### 2.Forkしたリポジトリの`hats`に自作した帽子スキンをアップロード
 ### 3.アップロードしたら`CustomHats.json`にコードを追加する
@@ -13,22 +14,23 @@
             "flipresource": "帽子の_flip用の画像名.png",
             "climbresource": "帽子の_climb用の画像名.png",
             "bounce": true,
-            "adaptive": true
+            "adaptive": true,
+            "behind" : true
         },
 ```  
 **※いらないコードは消してください**  
 **※`,`を最後の行では削除してください**
 #### コードの説明
 `"name"` : 帽子の題名  
-`"author"` : 制作者名  
-`"condition"` : よくわからない。`"None"`で機能する。  
+`"author"` : 制作者名   
 `"resource"` : 帽子画像を決められる。  
 `"backflipresource"` : クルーの反対向きでの背面の帽子画像を決められる。  
 `"backresource"` : クルーの背面の帽子画像を決められる。  
 `"flipresource"` : クルーの反対向きでの帽子画像を決められる。  
 `"climbresource"` : クルーの梯子の帽子画像を決められる。  
 `"bounce": true` : 帽子を跳ねさせることが出来ます。  
-`"adaptive": true` : クルーの色に帽子画像を変えることが出来ます。
+`"adaptive": true` : クルーの色に帽子画像を変えることが出来ます。  
+`"behind": true` : メインの帽子画像を背面に変更します。
 ### 4.TOPに対応させる
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
@@ -40,8 +42,8 @@ Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、
 [HatURL]
 
 # Setting type: String
-# Default value: https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
-HatURL = https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
+# Default value: https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
+HatURL = https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
 ```  
 という部分があるので`/ユーザー名/`と`/プロジェクト名/`の部分をそれぞれ自身のgithubユーザー名とプロジェクト名(デフォルトは`TOPHats`)にしてください。  
 **`.txt`にしている場合は`.cfg`に戻してください。**  
@@ -53,5 +55,5 @@ HatURL = https://raw.githubusercontent.com/tugaru1975/TOPHats/master,https://raw
 AmongUsファイルのデフォルト状態なら  
 Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
 Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、  
-`TownOfPlus`>`SkinTest`のなかに自作した帽子画像を入れると試すことが可能です。  
+`TownOfPlus`>`SkinTest`>`HatTest`のなかに自作した帽子画像を入れると、コスチュームメニューに自作スキンが追加され、試すことが可能です。  
 この時`帽子名_adptive.png`のようにすると[コマンド](#コードの説明)を対応させることが出来ます。

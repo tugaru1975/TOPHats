@@ -410,6 +410,12 @@
             "adaptive": true
         },
         {
+            "name": "歌え",
+            "author": "やちゃじゃくや",
+            "resource": "HandMike_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "SUS",
             "author": "やちゃじゃくや",
             "resource": "SUS.png"

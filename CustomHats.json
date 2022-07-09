@@ -3,7 +3,6 @@
         {
             "name": "猫耳",
             "author": "tugaru",
-            "condition": "None",
             "resource": "CatHat_adaptive.png",
             "climbresource": "CatHat_climb_adaptive.png",
             "adaptive": true
@@ -11,14 +10,12 @@
         {
             "name": "医務室へ急げ!!",
             "author": "tugaru",
-            "condition": "None",
             "resource": "DeadBody_adaptive.png",
             "adaptive": true
         },
         {
             "name": "守護霊",
             "author": "tugaru",
-            "condition": "None",
             "resource": "GuardianAngel_adaptive.png",
             "backresource": "GuardianAngel_back_adaptive.png",
             "adaptive": true
@@ -26,28 +23,24 @@
         {
             "name": "明確な殺意",
             "author": "tugaru",
-            "condition": "None",
             "resource": "ImposterHat_adaptive.png",
             "adaptive": true
         },
         {
             "name": "レポート連打マン",
             "author": "tugaru",
-            "condition": "None",
             "resource": "ReportCrew_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ボールは友達",
             "author": "tugaru",
-            "condition": "None",
             "resource": "SoccerBall.png",
             "bounce": true
         },
         {
             "name": "りんご",
             "author": "tugaru",
-            "condition": "None",
             "resource": "applesHat.png",
             "climbresource": "applesHat_climb.png",
             "bounce": true
@@ -55,7 +48,6 @@
         {
             "name": "ツアーガイド",
             "author": "tugaru",
-            "condition": "None",
             "resource": "flag_adaptive.png",
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
@@ -63,14 +55,12 @@
         {
             "name": "お迎え来ちゃった...",
             "author": "tugaru",
-            "condition": "None",
             "resource": "Angel.png",
             "climbresource": "Angel_climb.png"
         },
         {
             "name": "ベント監視",
             "author": "tugaru",
-            "condition": "None",
             "resource": "Vent_bounce.png",
             "backresource": "Vent_back_bounce.png",
             "climbresource": "Vent_climb.png",
@@ -79,7 +69,6 @@
         {
             "name": "影分身の術!!",
             "author": "tugaru",
-            "condition": "None",
             "resource": "Kagebunshin_adaptive.png",
             "backresource": "Kagebunshin_back_adaptive.png",
             "adaptive": true
@@ -87,7 +76,6 @@
         {
             "name": "色鉛筆",
             "author": "tugaru",
-            "condition": "None",
             "resource": "colorpencil_adaptive.png",
             "climbresource": "colorpencil_adaptive_climb.png",
             "adaptive": true
@@ -95,7 +83,6 @@
         {
             "name": "ゴミ箱",
             "author": "tugaru",
-            "condition": "None",
             "resource": "garbagebox_adaptive.png",
             "climbresource": "garbagebox_adaptive_climb.png",
             "adaptive": true
@@ -103,7 +90,6 @@
         {
             "name": "ハンバーガー一つ",
             "author": "tugaru",
-            "condition": "None",
             "resource": "hamburger_bounce.png",
             "climbresource": "hamburger_climb.png",
             "bounce": true
@@ -111,28 +97,24 @@
         {
             "name": "これで思いっきり",
             "author": "tugaru",
-            "condition": "None",
             "resource": "hammer_adaptive.png",
             "adaptive": true
         },
         {
             "name": "鍵となるクルー",
             "author": "tugaru",
-            "condition": "None",
             "resource": "keycrew_adaptive.png",
             "adaptive": true
         },
         {
             "name": "鉛筆",
             "author": "tugaru",
-            "condition": "None",
             "resource": "pencil.png",
             "climbresource": "pencil_climb.png"
         },
         {
             "name": "給油タスク中",
             "author": "tugaru",
-            "condition": "None",
             "resource": "Refuel_bounce.png",
             "climbresource": "Refuel_bounce_climb.png",
             "bounce": true
@@ -140,7 +122,6 @@
         {
             "name": "たぬき",
             "author": "tugaru",
-            "condition": "None",
             "resource": "tanuki_adaptive.png",
             "backresource": "tanuki_back_adaptive.png",
             "climbresource": "tanuki_adaptive_climb.png",
@@ -158,7 +139,6 @@
         {
             "name": "浮き輪",
             "author": "tugaru",
-            "condition": "None",
             "resource": "ukiwa_adaptive.png",
             "climbresource": "ukiwa_adaptive_climb.png",
             "adaptive": true
@@ -166,7 +146,6 @@
         {
             "name": "レントゲン",
             "author": "tugaru",
-            "condition": "None",
             "resource": "X-ray_adaptive.png",
             "climbresource": "X-ray_adaptive_climb.png",
             "adaptive": true
@@ -174,7 +153,6 @@
         {
             "name": "私は寝ていません",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "eyemaskzzz_adaptive.png",
             "flipresource": "eyemaskzzz_flip_adaptive.png",
             "climbresource": "eyemaskzzz_climb.png",
@@ -183,14 +161,12 @@
         {
             "name": "どんな状況でもプレイ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "RedPlay.png",
             "climbresource": "RedPlay_climb.png"
         },
         {
             "name": "ダブルキラー",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "DoubleGun_adaptive.png",
             "backresource": "DoubleGun_back_adaptive.png",
             "climbresource": "DoubleGun_adaptive_climb.png",
@@ -199,14 +175,12 @@
         {
             "name": "ちょっと武器庫で借りてきた",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "AK.png",
             "climbresource": "AK_climb.png"
         },
         {
             "name": "双葉アホ毛",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "AhogeFutaba_adaptive.png",
             "climbresource": "AhogeFutaba_adaptive_climb.png",
             "adaptive": true
@@ -214,7 +188,6 @@
         {
             "name": "認証バッジ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Ninsho-badge_adaptive.png",
             "flipresource": "Ninsho-badge_flip_adaptive.png",
             "adaptive": true
@@ -222,49 +195,42 @@
         {
             "name": "USBハッカー",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "hackers_adaptive.png",
             "adaptive": true
         },
         {
             "name": "スターロッド",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "StarRod.png",
             "climbresource": "StarRod_climb.png"
         },
         {
             "name": "おにぎり",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Mysteryonigiri.png",
             "climbresource": "Mysteryonigiri__climb.png"
         },
         {
             "name": "サンドイッチ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Hamsand.png",
             "climbresource": "Hamsand_climb.png"
         },
         {
             "name": "4号",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "koronba4gou.png",
             "flipresource": "koronba4gou_flip.png"
         },
         {
             "name": "まだですか?",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "madadesuka_adaptive.png",
             "adaptive": true
         },
         {
             "name": "宇宙人だよ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "nayutan_adaptive.png",
             "climbresource": "nayutan_adaptive_climb.png",
             "adaptive": true
@@ -272,21 +238,18 @@
         {
             "name": "軟禁コースター管理者",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "nobaman.png",
             "climbresource": "nobaman_climb.png"
         },
         {
             "name": "テルミービート",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "tellmebeat.png",
             "climbresource": "tellmebeat_climb.png"
         },
         {
             "name": "配信中",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Live_adaptive.png",
             "flipresource": "Live_adaptive_flip.png",
             "adaptive": true
@@ -294,28 +257,24 @@
         {
             "name": "ょぅじょ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "YoJo.png",
             "climbresource": "YoJo_climb.png"
         },
         {
             "name": "自分へ催眠術",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Saimin_adaptive.png",
             "adaptive": true
         },
         {
             "name": "サイリウム",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Sairiumu_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ECHO",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "ECHO_adaptive.png",
             "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
@@ -324,20 +283,17 @@
         {
             "name": "モップ掛けを忘れずに",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Sub_Mop_adaptive.png",
             "adaptive": true
         },
         {
             "name": "酸素をとっておこう",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Sub_o2.png",
         },
         {
             "name": "観光には水分補給",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Sub_water_adaptive.png",
             "backresource": "Sub_water_back.png",
             "adaptive": true
@@ -345,7 +301,6 @@
         {
             "name": "みょみょみょみょ～ん",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Myon.png",
             "backresource": "Myon_back.png",
             "climbresource": "Myon_climb.png",
@@ -353,14 +308,12 @@
         {
             "name": "小5+ロリ=悟り",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Satori.png",
             "climbresource": "Satori_climb.png",
         },
         {
             "name": "スタンド:インポスター",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Stand_adaptive.png",
             "backresource": "Stand_adaptive_back.png",
             "flipresource": "Stand_adaptive_flip.png",
@@ -369,14 +322,12 @@
         {
             "name": "ジェビル",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Jevil.png",
             "climbresource": "Jevil_climb.png",
         },
         {
             "name": "クルージュース",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Juice_adaptive.png",
             "climbresource": "Juice_adaptive_climb.png",
             "adaptive": true
@@ -384,21 +335,18 @@
         {
             "name": "削除3秒前",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "gomibako.png",
             "climbresource": "gomibako_climb.png",
         },
         {
             "name": "銀の盾",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "gintate_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ウボァ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "uboa.png",
             "climbresource": "uboa_climb.png",
             "flipresource": "uboa_flip.png",
@@ -406,7 +354,6 @@
         {
             "name": "ドッキングにぼし",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "dokkingniboshi_adaptive.png",
             "climbresource": "dokkingniboshi_climb.png",
             "adaptive": true
@@ -414,7 +361,6 @@
         {
             "name": "頭痛の原因",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "PickaxeHead.png",
             "backresource": "PickaxeHead_back.png",
             "climbresource": "PickaxeHead_climb.png"
@@ -422,14 +368,12 @@
         {
             "name": "悩み",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "thinking.png",
             "adaptive": true
         },
         {
             "name": "ハット＆マフラー",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "HatsandMuffler_adaptive.png",
             "climbresource": "HatsandMuffler_adaptive_climb.png",
             "adaptive": true
@@ -437,21 +381,18 @@
         {
             "name": "寄生中",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "Kisei.png",
             "climbresource": "Kisei_climb.png"
         },
         {
             "name": "パンはおいしい",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "BreadEat_adaptive.png",
             "adaptive": true
         },
         {
             "name": "YJ",
             "author": "やちゃじゃくや",
-            "condition": "None",
             "resource": "YJ_adaptive.png",
             "climbresource": "YJ_adaptive_climb.png",
             "flipresource": "YJ_adaptive_flip.png",

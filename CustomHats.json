@@ -391,6 +391,36 @@
             "adaptive": true
         },
         {
+            "name": "Joker",
+            "author": "やちゃじゃくや",
+            "resource": "JokerCard.png",
+            "climbresource": "JokerCard_climb.png"
+        },
+        {
+            "name": "チキン1つ",
+            "author": "やちゃじゃくや",
+            "resource": "SUS_Chiken.png",
+            "climbresource": "SUS_Chiken_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "カンニング",
+            "author": "やちゃじゃくや",
+            "resource": "PCngus.png",
+            "adaptive": true
+        },
+        {
+            "name": "歌え",
+            "author": "やちゃじゃくや",
+            "resource": "HandMike_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "SUS",
+            "author": "やちゃじゃくや",
+            "resource": "SUS.png"
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",

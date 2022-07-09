@@ -391,6 +391,19 @@
             "adaptive": true
         },
         {
+            "name": "Joker",
+            "author": "やちゃじゃくや",
+            "resource": "JokerCard.png",
+            "climbresource": "JokerCard_climb.png"
+        },
+        {
+            "name": "チキン1つ",
+            "author": "やちゃじゃくや",
+            "resource": "SUS_Chiken.png",
+            "climbresource": "SUS_Chiken_climb.png",
+            "adaptive": true
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",

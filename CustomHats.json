@@ -404,6 +404,12 @@
             "adaptive": true
         },
         {
+            "name": "カンニング",
+            "author": "やちゃじゃくや",
+            "resource": "PCngus.png",
+            "adaptive": true
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",

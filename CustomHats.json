@@ -16,9 +16,9 @@
         {
             "name": "守護霊",
             "author": "tugaru",
-            "resource": "GuardianAngel_adaptive.png",
-            "backresource": "GuardianAngel_back_adaptive.png",
-            "adaptive": true
+            "resource": "GuardianAngel_back_adaptive.png",
+            "adaptive": true,
+            "behind": true
         },
         {
             "name": "明確な殺意",

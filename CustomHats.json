@@ -421,6 +421,12 @@
             "resource": "SUS.png"
         },
         {
+            "name": "豆腐職人",
+            "author": "やちゃじゃくや",
+            "resource": "TofuShokunin_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",

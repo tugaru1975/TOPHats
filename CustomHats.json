@@ -421,12 +421,24 @@
             "resource": "SUS.png"
         },
         {
+            "name": "豆腐職人",
+            "author": "やちゃじゃくや",
+            "resource": "TofuShokunin_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",
             "climbresource": "YJ_adaptive_climb.png",
             "flipresource": "YJ_adaptive_flip.png",
             "adaptive": true
+        },
+        {
+            "name": "ダイヤピッケル",
+            "author": "竹饅",
+            "resource": "T-Pickaxe.png",
+            "climbresource": "T-Pickaxe_climb.png"
         }
     ]
 }

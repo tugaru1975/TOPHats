@@ -439,6 +439,11 @@
             "author": "竹饅",
             "resource": "T-Pickaxe.png",
             "climbresource": "T-Pickaxe_climb.png"
+        },
+        {
+            "name": "Defeat",
+            "author": "竹饅",
+            "resource": "Defeat.png"
         }
     ]
 }

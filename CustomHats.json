@@ -445,6 +445,13 @@
             "author": "竹饅",
             "resource": "Defeat.png",
             "adaptive": true
-        }
+        },
+        {
+            "name": "ironpick",
+            "author": "竹饅",
+            "resource": "IronPickaxe_adaptive.png",
+            "climbresource": "IronPickaxe_adaptive_climb.png",
+            "adaptive": true
+        },
     ]
 }

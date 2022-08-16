@@ -453,5 +453,11 @@
             "climbresource": "IronPickaxe_adaptive_climb.png",
             "adaptive": true
         },
+        {
+            "name": "眠い",
+            "author": "竹饅",
+            "resource": "T-Sleepy_adaptive.png",
+            "adaptive": true
+        }
     ]
 }

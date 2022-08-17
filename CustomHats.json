@@ -458,6 +458,14 @@
             "author": "竹饅",
             "resource": "T-Sleepy_adaptive.png",
             "adaptive": true
-        }
+        },
+        {
+            "name": "剣と盾",
+            "author": "竹饅",
+            "resource": "swordshield_adaptive.png",
+            "backresource": "swordshield_adaptive_back.png",
+            "climbresource": "swordshield_adaptive_climb.png",
+            "adaptive": true
+        },
     ]
 }

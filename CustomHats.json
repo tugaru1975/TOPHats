@@ -427,6 +427,26 @@
             "adaptive": true
         },
         {
+            "name": "白桜",
+            "author": "やちゃじゃくや",
+            "resource": "SiroSakura_adaptive.png",
+            "climbresource": "SiroSakura_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "黒桜",
+            "author": "やちゃじゃくや",
+            "resource": "KuroSakura_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "白黒桜",
+            "author": "やちゃじゃくや",
+            "resource": "SiroKuroSakura_adaptive.png",
+            "climbresource": "SiroKuroSakura_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "YJ",
             "author": "やちゃじゃくや",
             "resource": "YJ_adaptive.png",

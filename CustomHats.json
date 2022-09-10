@@ -426,12 +426,32 @@
             "resource": "TofuShokunin_adaptive.png",
             "adaptive": true
         },
+        
         {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",
             "climbresource": "SiroSakura_adaptive_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "矢印",
+            "author": "YJ",
+            "resource": "Arrow_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "四角い顔",
+            "author": "YJ",
+            "resource": "OldGlass_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Mystery",
+            "author": "YJ",
+            "resource": "Mystery.png",
+            "backresource": "Mystery_back.png",
+            "climbresource": Mystery_climb.png",
         },
         {
             "name": "黒桜",

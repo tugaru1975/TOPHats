@@ -289,7 +289,7 @@
         {
             "name": "酸素をとっておこう",
             "author": "やちゃじゃくや",
-            "resource": "Sub_o2.png",
+            "resource": "Sub_o2.png"
         },
         {
             "name": "観光には水分補給",
@@ -303,13 +303,13 @@
             "author": "やちゃじゃくや",
             "resource": "Myon.png",
             "backresource": "Myon_back.png",
-            "climbresource": "Myon_climb.png",
+            "climbresource": "Myon_climb.png"
         },
         {
             "name": "小5+ロリ=悟り",
             "author": "やちゃじゃくや",
             "resource": "Satori.png",
-            "climbresource": "Satori_climb.png",
+            "climbresource": "Satori_climb.png"
         },
         {
             "name": "スタンド:インポスター",
@@ -323,7 +323,7 @@
             "name": "ジェビル",
             "author": "やちゃじゃくや",
             "resource": "Jevil.png",
-            "climbresource": "Jevil_climb.png",
+            "climbresource": "Jevil_climb.png"
         },
         {
             "name": "クルージュース",
@@ -336,7 +336,7 @@
             "name": "削除3秒前",
             "author": "やちゃじゃくや",
             "resource": "gomibako.png",
-            "climbresource": "gomibako_climb.png",
+            "climbresource": "gomibako_climb.png"
         },
         {
             "name": "銀の盾",
@@ -349,7 +349,7 @@
             "author": "やちゃじゃくや",
             "resource": "uboa.png",
             "climbresource": "uboa_climb.png",
-            "flipresource": "uboa_flip.png",
+            "flipresource": "uboa_flip.png"
         },
         {
             "name": "ドッキングにぼし",
@@ -451,7 +451,7 @@
             "author": "YJ",
             "resource": "Mystery.png",
             "backresource": "Mystery_back.png",
-            "climbresource": Mystery_climb.png",
+            "climbresource": "Mystery_climb.png"
         },
         {
             "name": "黒桜",
@@ -506,6 +506,6 @@
             "backresource": "swordshield_adaptive_back.png",
             "climbresource": "swordshield_adaptive_climb.png",
             "adaptive": true
-        },
+        }
     ]
 }

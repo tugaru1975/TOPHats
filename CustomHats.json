@@ -425,33 +425,51 @@
             "author": "やちゃじゃくや",
             "resource": "TofuShokunin_adaptive.png",
             "adaptive": true
-        },
-        
-        {
-            "name": "白桜",
-            "author": "やちゃじゃくや",
-            "resource": "SiroSakura_adaptive.png",
-            "climbresource": "SiroSakura_adaptive_climb.png",
-            "adaptive": true
-        },
+        }
         {
             "name": "矢印",
-            "author": "YJ",
+            "author": "やちゃじゃくや",
             "resource": "Arrow_adaptive.png",
             "adaptive": true
         },
         {
             "name": "四角い顔",
-            "author": "YJ",
+            "author": "やちゃじゃくや",
             "resource": "OldGlass_adaptive.png",
             "adaptive": true
         },
         {
             "name": "Mystery",
-            "author": "YJ",
+            "author": "やちゃじゃくや",
             "resource": "Mystery.png",
             "backresource": "Mystery_back.png",
             "climbresource": "Mystery_climb.png"
+        },
+        {
+            "name": "自分が消しゴム",
+            "author": "やちゃじゃくや",
+            "resource": "YJEraser_adaptive.png",
+            "climbresource": "YJEraser_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "制御は自分で",
+            "author": "やちゃじゃくや",
+            "resource": "SelfControl_adaptive.png",
+            "climbresource": "SelfControl_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "画鋲",
+            "author": "やちゃじゃくや",
+            "resource": "thumbtack.png",
+            "climbresource": "thumbtack_climb.png"
+        },
+        {
+            "name": "白桜",
+            "author": "やちゃじゃくや",
+            "resource": "SiroSakura_adaptive.png",
+            "climbresource": "SiroSakura_adaptive_climb.png"
         },
         {
             "name": "黒桜",

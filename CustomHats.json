@@ -469,7 +469,8 @@
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",
-            "climbresource": "SiroSakura_adaptive_climb.png"
+            "climbresource": "SiroSakura_adaptive_climb.png",
+            "adaptive": true
         },
         {
             "name": "黒桜",

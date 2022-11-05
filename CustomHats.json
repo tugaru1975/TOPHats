@@ -466,6 +466,24 @@
             "climbresource": "thumbtack_climb.png"
         },
         {
+            "name": "でかすぎるバーガー",
+            "author": "やちゃじゃくや",
+            "resource": "SuperBurger.png",
+            "climbresource": "SuperBurger_climb.png"
+        },
+        {
+            "name": "多すぎるフライドポテト",
+            "author": "やちゃじゃくや",
+            "resource": "SuperPotato.png",
+            "climbresource": "SuperPotato_climb.png"
+        },
+        {
+            "name": "いっぱい飲めるコーラ",
+            "author": "やちゃじゃくや",
+            "resource": "SuperCola.png",
+            "climbresource": "SuperCola_climb.png"
+        },
+        {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",

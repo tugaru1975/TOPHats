@@ -484,6 +484,50 @@
             "climbresource": "SuperCola_climb.png"
         },
         {
+            "name": "雪堀り",
+            "author": "やちゃじゃくや",
+            "resource": "SnowShavel_adaptive.png",
+            "climbresource": "SnowShavel_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "火で温まる",
+            "author": "やちゃじゃくや",
+            "resource": "FireStick_adaptive.png",
+            "climbresource": "FireStick_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "まぐろ",
+            "author": "やちゃじゃくや",
+            "resource": "MaguroSUSHI.png",
+            "climbresource": "MaguroSUSHI_climb.png"
+        },
+        {
+            "name": "たまご",
+            "author": "やちゃじゃくや",
+            "resource": "TamagoSUSHI.png",
+            "climbresource": "TamagoSUSHI_climb.png"
+        },
+        {
+            "name": "サーモン",
+            "author": "やちゃじゃくや",
+            "resource": "SalmonSUSHI.png",
+            "climbresource": "SalmonSUSHI_climb.png"
+        },
+        {
+            "name": "イカ",
+            "author": "やちゃじゃくや",
+            "resource": "IkaSUSHI.png",
+            "climbresource": "IkaSUSHI_climb.png"
+        },
+        {
+            "name": "えび",
+            "author": "やちゃじゃくや",
+            "resource": "EbiSUSHI.png",
+            "climbresource": "EbiSUSHI_climb.png"
+        },
+        {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",

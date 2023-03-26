@@ -545,7 +545,7 @@
             "name":"ボム兵",
             "author":"やちゃじゃくや",
             "condition":"None",
-            "resource":"BomberHead",
+            "resource":"BomberHead.png",
             "climbresource":"BomberHead_climb.png"
         },
         {

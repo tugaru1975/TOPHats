@@ -659,6 +659,14 @@
             "adaptive": true
         },
         {
+            "name":"この帽子は宣伝帽子となっております。このQRコードを読み込むとTwitterに飛ばされ製作者を知ることができます。ちなみにこの帽子は名前の文字数が何文字まで行けるかという挑戦もしてます。あと、この帽子はSuperNewRoles限定のの帽子になっております。ほかのMODでは使用することができません。ここから余談ですが、最近追加した蜂の帽子が最低な使われ方をしてて笑いました。いやぁ、なんでああなったんですかね...　あ、最後に、この帽子を使ってボケをできたらTwitterに報告お願いします。",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "QRCode_YJCos.png",
+            "flipresource": "QRCode_YJCos_back.png",
+            "climbresource": "QRCode_YJCos_climb.png"
+        },
+        {
             "name": "ダイヤピッケル",
             "author": "竹饅",
             "resource": "T-Pickaxe.png",

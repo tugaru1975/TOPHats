@@ -663,7 +663,7 @@
             "author":"やちゃじゃくや",
             "condition": "None",
             "resource": "QRCode_YJCos.png",
-            "flipresource": "QRCode_YJCos_back.png",
+            "flipresource": "QRCode_YJCos_flip.png",
             "climbresource": "QRCode_YJCos_climb.png"
         },
         {

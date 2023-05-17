@@ -631,6 +631,36 @@
             "climbresource":"Gimmighoul_climb.png"
         },
         {
+            "name": "クルーセット",
+            "author": "やちゃじゃくや",
+            "resource": "CrewSet_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "インポスターセット",
+            "author": "やちゃじゃくや",
+            "resource": "ImpSet_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "ミニメイト",
+            "author": "やちゃじゃくや",
+            "resource": "Minimate_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "トランスポーター",
+            "author": "やちゃじゃくや",
+            "resource": "Transport_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "銃と何か",
+            "author": "やちゃじゃくや",
+            "resource": "GunandP_adaptive.png",
+            "adaptive": true
+        },
+        {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",

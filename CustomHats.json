@@ -661,6 +661,39 @@
             "adaptive": true
         },
         {
+            "name": "引っこ抜かれてもいない",
+            "author": "やちゃじゃくや",
+            "resource": "AmoPikmin_adaptive.png",
+            "climbresource": "AmoPikmin_adaptive.png",
+            "adaptive": true
+        },
+	    {
+            "name": "マント",
+            "author": "やちゃじゃくや",
+            "resource": "Cape_adaptive.png",
+            "climbresource": "Cape_adaptive.png",
+            "adaptive": true,
+            "behind": true
+        },
+    	{
+            "name": "ご安全に",
+            "author": "やちゃじゃくや",
+            "resource": "WorkUs.png",
+            "climbresource": "WorkUs_climb.png"
+        },
+    	{
+            "name": "こっちこっち",
+            "author": "やちゃじゃくや",
+            "resource": "YJCat.png",
+            "climbresource": "YJCat_climb.png"
+        },
+	    {
+            "name": "ハット作者を頭にのせる",
+            "author": "やちゃじゃくや",
+            "resource": "YJRob.png",
+            "climbresource": "YJRob_climb.png"
+        },
+        {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",

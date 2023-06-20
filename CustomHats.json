@@ -664,14 +664,14 @@
             "name": "引っこ抜かれてもいない",
             "author": "やちゃじゃくや",
             "resource": "AmoPikmin_adaptive.png",
-            "climbresource": "AmoPikmin_adaptive.png",
+            "climbresource": "AmoPikmin_adaptive_climb.png",
             "adaptive": true
         },
 	    {
             "name": "マント",
             "author": "やちゃじゃくや",
             "resource": "Cape_adaptive.png",
-            "climbresource": "Cape_adaptive.png",
+            "climbresource": "Cape_adaptive_climb.png",
             "adaptive": true,
             "behind": true
         },

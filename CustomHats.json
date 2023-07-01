@@ -3,6 +3,7 @@
         {
             "name": "猫耳",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "CatHat_adaptive.png",
             "climbresource": "CatHat_climb_adaptive.png",
             "adaptive": true
@@ -10,12 +11,14 @@
         {
             "name": "医務室へ急げ!!",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "DeadBody_adaptive.png",
             "adaptive": true
         },
         {
             "name": "守護霊",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "GuardianAngel_back_adaptive.png",
             "adaptive": true,
             "behind": true
@@ -23,24 +26,28 @@
         {
             "name": "明確な殺意",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "ImposterHat_adaptive.png",
             "adaptive": true
         },
         {
             "name": "レポート連打マン",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "ReportCrew_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ボールは友達",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "SoccerBall.png",
             "bounce": true
         },
         {
             "name": "りんご",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "applesHat.png",
             "climbresource": "applesHat_climb.png",
             "bounce": true
@@ -48,6 +55,7 @@
         {
             "name": "ツアーガイド",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "flag_adaptive.png",
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
@@ -55,12 +63,14 @@
         {
             "name": "お迎え来ちゃった...",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "Angel.png",
             "climbresource": "Angel_climb.png"
         },
         {
             "name": "ベント監視",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "Vent_bounce.png",
             "backresource": "Vent_back_bounce.png",
             "climbresource": "Vent_climb.png",
@@ -69,6 +79,7 @@
         {
             "name": "影分身の術!!",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "Kagebunshin_adaptive.png",
             "backresource": "Kagebunshin_back_adaptive.png",
             "adaptive": true
@@ -76,6 +87,7 @@
         {
             "name": "色鉛筆",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "colorpencil_adaptive.png",
             "climbresource": "colorpencil_adaptive_climb.png",
             "adaptive": true
@@ -83,6 +95,7 @@
         {
             "name": "ゴミ箱",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "garbagebox_adaptive.png",
             "climbresource": "garbagebox_adaptive_climb.png",
             "adaptive": true
@@ -90,6 +103,7 @@
         {
             "name": "ハンバーガー一つ",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "hamburger_bounce.png",
             "climbresource": "hamburger_climb.png",
             "bounce": true
@@ -97,24 +111,28 @@
         {
             "name": "これで思いっきり",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "hammer_adaptive.png",
             "adaptive": true
         },
         {
             "name": "鍵となるクルー",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "keycrew_adaptive.png",
             "adaptive": true
         },
         {
             "name": "鉛筆",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "pencil.png",
             "climbresource": "pencil_climb.png"
         },
         {
             "name": "給油タスク中",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "Refuel_bounce.png",
             "climbresource": "Refuel_bounce_climb.png",
             "bounce": true
@@ -122,6 +140,7 @@
         {
             "name": "たぬき",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "tanuki_adaptive.png",
             "backresource": "tanuki_back_adaptive.png",
             "climbresource": "tanuki_adaptive_climb.png",
@@ -130,6 +149,7 @@
         {
             "name": "クルーの宝",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "condition": "None",
             "resource": "TreasureChest_adaptive.png",
             "backresource": "TreasureChest_back_adaptive.png",
@@ -139,6 +159,7 @@
         {
             "name": "浮き輪",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "ukiwa_adaptive.png",
             "climbresource": "ukiwa_adaptive_climb.png",
             "adaptive": true
@@ -146,6 +167,7 @@
         {
             "name": "レントゲン",
             "author": "tugaru",
+            "package": "TOP_Cos",
             "resource": "X-ray_adaptive.png",
             "climbresource": "X-ray_adaptive_climb.png",
             "adaptive": true
@@ -153,6 +175,7 @@
         {
             "name": "私は寝ていません",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "eyemaskzzz_adaptive.png",
             "flipresource": "eyemaskzzz_flip_adaptive.png",
             "climbresource": "eyemaskzzz_climb.png",
@@ -161,12 +184,14 @@
         {
             "name": "どんな状況でもプレイ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "RedPlay.png",
             "climbresource": "RedPlay_climb.png"
         },
         {
             "name": "ダブルキラー",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "DoubleGun_adaptive.png",
             "backresource": "DoubleGun_back_adaptive.png",
             "climbresource": "DoubleGun_adaptive_climb.png",
@@ -175,12 +200,14 @@
         {
             "name": "ちょっと武器庫で借りてきた",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "AK.png",
             "climbresource": "AK_climb.png"
         },
         {
             "name": "双葉アホ毛",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "AhogeFutaba_adaptive.png",
             "climbresource": "AhogeFutaba_adaptive_climb.png",
             "adaptive": true
@@ -188,6 +215,7 @@
         {
             "name": "認証バッジ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Ninsho-badge_adaptive.png",
             "flipresource": "Ninsho-badge_flip_adaptive.png",
             "adaptive": true
@@ -195,36 +223,42 @@
         {
             "name": "USBハッカー",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "hackers_adaptive.png",
             "adaptive": true
         },
         {
             "name": "スターロッド",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "StarRod.png",
             "climbresource": "StarRod_climb.png"
         },
         {
             "name": "おにぎり",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Mysteryonigiri.png",
             "climbresource": "Mysteryonigiri__climb.png"
         },
         {
             "name": "サンドイッチ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Hamsand.png",
             "climbresource": "Hamsand_climb.png"
         },
         {
             "name": "4号",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "koronba4gou.png",
             "flipresource": "koronba4gou_flip.png"
         },
         {
             "name": "まだですか?",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "madadesuka_adaptive.png",
             "adaptive": true
         },
@@ -238,18 +272,21 @@
         {
             "name": "軟禁コースター管理者",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "nobaman.png",
             "climbresource": "nobaman_climb.png"
         },
         {
             "name": "テルミービート",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "tellmebeat.png",
             "climbresource": "tellmebeat_climb.png"
         },
         {
             "name": "配信中",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Live_adaptive.png",
             "flipresource": "Live_adaptive_flip.png",
             "adaptive": true
@@ -257,24 +294,28 @@
         {
             "name": "ょぅじょ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "YoJo.png",
             "climbresource": "YoJo_climb.png"
         },
         {
             "name": "自分へ催眠術",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Saimin_adaptive.png",
             "adaptive": true
         },
         {
             "name": "サイリウム",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Sairiumu_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ECHO",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "ECHO_adaptive.png",
             "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
@@ -283,17 +324,20 @@
         {
             "name": "モップ掛けを忘れずに",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Sub_Mop_adaptive.png",
             "adaptive": true
         },
         {
             "name": "酸素をとっておこう",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Sub_o2.png"
         },
         {
             "name": "観光には水分補給",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Sub_water_adaptive.png",
             "backresource": "Sub_water_back.png",
             "adaptive": true
@@ -301,6 +345,7 @@
         {
             "name": "みょみょみょみょ～ん",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Myon.png",
             "backresource": "Myon_back.png",
             "climbresource": "Myon_climb.png"
@@ -308,12 +353,14 @@
         {
             "name": "小5+ロリ=悟り",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Satori.png",
             "climbresource": "Satori_climb.png"
         },
         {
             "name": "スタンド:インポスター",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Stand_adaptive.png",
             "backresource": "Stand_adaptive_back.png",
             "flipresource": "Stand_adaptive_flip.png",
@@ -322,12 +369,14 @@
         {
             "name": "ジェビル",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Jevil.png",
             "climbresource": "Jevil_climb.png"
         },
         {
             "name": "クルージュース",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Juice_adaptive.png",
             "climbresource": "Juice_adaptive_climb.png",
             "adaptive": true
@@ -335,18 +384,21 @@
         {
             "name": "削除3秒前",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "gomibako.png",
             "climbresource": "gomibako_climb.png"
         },
         {
             "name": "銀の盾",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "gintate_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ウボァ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "uboa.png",
             "climbresource": "uboa_climb.png",
             "flipresource": "uboa_flip.png"
@@ -354,6 +406,7 @@
         {
             "name": "ドッキングにぼし",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "dokkingniboshi_adaptive.png",
             "climbresource": "dokkingniboshi_climb.png",
             "adaptive": true
@@ -361,6 +414,7 @@
         {
             "name": "頭痛の原因",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "PickaxeHead.png",
             "backresource": "PickaxeHead_back.png",
             "climbresource": "PickaxeHead_climb.png"
@@ -368,12 +422,14 @@
         {
             "name": "悩み",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "thinking.png",
             "adaptive": true
         },
         {
             "name": "ハット＆マフラー",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "HatsandMuffler_adaptive.png",
             "climbresource": "HatsandMuffler_adaptive_climb.png",
             "adaptive": true
@@ -381,24 +437,28 @@
         {
             "name": "寄生中",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Kisei.png",
             "climbresource": "Kisei_climb.png"
         },
         {
             "name": "パンはおいしい",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "BreadEat_adaptive.png",
             "adaptive": true
         },
         {
             "name": "Joker",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "JokerCard.png",
             "climbresource": "JokerCard_climb.png"
         },
         {
             "name": "チキン1つ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SUS_Chiken.png",
             "climbresource": "SUS_Chiken_climb.png",
             "adaptive": true
@@ -406,41 +466,48 @@
         {
             "name": "カンニング",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "PCngus.png",
             "adaptive": true
         },
         {
             "name": "歌え",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "HandMike_adaptive.png",
             "adaptive": true
         },
         {
             "name": "SUS",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SUS.png"
         },
         {
             "name": "豆腐職人",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "TofuShokunin_adaptive.png",
             "adaptive": true
         },
         {
             "name": "矢印",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Arrow_adaptive.png",
             "adaptive": true
         },
         {
             "name": "四角い顔",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "OldGlass_adaptive.png",
             "adaptive": true
         },
         {
             "name": "Mystery",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Mystery.png",
             "backresource": "Mystery_back.png",
             "climbresource": "Mystery_climb.png"
@@ -448,6 +515,7 @@
         {
             "name": "自分が消しゴム",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "YJEraser_adaptive.png",
             "climbresource": "YJEraser_adaptive_climb.png",
             "adaptive": true
@@ -455,6 +523,7 @@
         {
             "name": "制御は自分で",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SelfControl_adaptive.png",
             "climbresource": "SelfControl_adaptive_climb.png",
             "adaptive": true
@@ -462,30 +531,35 @@
         {
             "name": "画鋲",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "thumbtack.png",
             "climbresource": "thumbtack_climb.png"
         },
         {
             "name": "でかすぎるバーガー",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SuperBurger.png",
             "climbresource": "SuperBurger_climb.png"
         },
         {
             "name": "多すぎるフライドポテト",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SuperPotato.png",
             "climbresource": "SuperPotato_climb.png"
         },
         {
             "name": "いっぱい飲めるコーラ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SuperCola.png",
             "climbresource": "SuperCola_climb.png"
         },
         {
             "name": "雪堀り",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SnowShavel_adaptive.png",
             "climbresource": "SnowShavel_adaptive_climb.png",
             "adaptive": true
@@ -493,6 +567,7 @@
         {
             "name": "火で温まる",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "FireStick_adaptive.png",
             "climbresource": "FireStick_adaptive_climb.png",
             "adaptive": true
@@ -500,36 +575,42 @@
         {
             "name": "まぐろ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "MaguroSUSHI.png",
             "climbresource": "MaguroSUSHI_climb.png"
         },
         {
             "name": "たまご",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "TamagoSUSHI.png",
             "climbresource": "TamagoSUSHI_climb.png"
         },
         {
             "name": "サーモン",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SalmonSUSHI.png",
             "climbresource": "SalmonSUSHI_climb.png"
         },
         {
             "name": "イカ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "IkaSUSHI.png",
             "climbresource": "IkaSUSHI_climb.png"
         },
         {
             "name": "えび",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "EbiSUSHI.png",
             "climbresource": "EbiSUSHI_climb.png"
         },
         {
             "name":"いくら",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition":"None",
             "resource":"IKURA.png",
             "climbresource":"IKURA_climb.png"
@@ -537,6 +618,7 @@
         {
             "name":"うに",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition":"None",
             "resource":"UNI.png",
             "climbresource":"UNI_climb.png"
@@ -544,6 +626,7 @@
         {
             "name":"ボム兵",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition":"None",
             "resource":"BomberHead.png",
             "climbresource":"BomberHead_climb.png"
@@ -551,6 +634,7 @@
         {
             "name":"ハッターシンボル",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition":"None",
             "resource":"HatterSymbol.png",
             "climbresource":"HatterSymbol_climb.png"
@@ -558,6 +642,7 @@
         {
             "name":"ハッターのぼうし",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition":"None",
             "resource":"HattersHat.png",
             "climbresource":"HattersHat_climb.png"
@@ -565,6 +650,7 @@
         {
             "name":"はちはち",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "8ee.png",
             "backresource": "8ee_back.png",
@@ -573,6 +659,7 @@
         {
             "name":"リバース",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "Reverse_Card_adaptive.png",
             "adaptive": true
@@ -580,6 +667,7 @@
         {
             "name":"スキップ",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "Skip_Card_adaptive.png",
             "adaptive": true
@@ -587,6 +675,7 @@
         {
             "name":"サーベル",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "Sarvel_adaptive.png",
             "adaptive": true
@@ -594,6 +683,7 @@
         {
             "name":"波動のパワー",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "PowerHand_adaptive.png",
             "adaptive": true
@@ -601,6 +691,7 @@
         {
             "name":"絵描き",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "PaperHand_adaptive.png",
             "adaptive": true
@@ -608,6 +699,7 @@
         {
             "name":"ASMR",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "ASMR_adaptive.png",
             "adaptive": true
@@ -615,54 +707,63 @@
         {
             "name":"ここGuess",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "GuessGuess.png"
         },
         {
             "name":"金の亡者",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "resource":"Gholdengo.png",
             "climbresource":"Gholdengo_climb.png"
         },
         {
             "name":"コイン運び屋",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "resource":"Gimmighoul.png",
             "climbresource":"Gimmighoul_climb.png"
         },
         {
             "name": "クルーセット",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "CrewSet_adaptive.png",
             "adaptive": true
         },
         {
             "name": "インポスターセット",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "ImpSet_adaptive.png",
             "adaptive": true
         },
         {
             "name": "ミニメイト",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Minimate_adaptive.png",
             "adaptive": true
         },
         {
             "name": "トランスポーター",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Transport_adaptive.png",
             "adaptive": true
         },
         {
             "name": "銃と何か",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "GunandP_adaptive.png",
             "adaptive": true
         },
         {
             "name": "引っこ抜かれてもいない",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "AmoPikmin_adaptive.png",
             "climbresource": "AmoPikmin_adaptive_climb.png",
             "adaptive": true
@@ -670,6 +771,7 @@
 	    {
             "name": "マント",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "Cape_adaptive.png",
             "climbresource": "Cape_adaptive_climb.png",
             "adaptive": true,
@@ -678,24 +780,28 @@
     	{
             "name": "ご安全に",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "WorkUs.png",
             "climbresource": "WorkUs_climb.png"
         },
     	{
             "name": "こっちこっち",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "YJCat.png",
             "climbresource": "YJCat_climb.png"
         },
 	    {
             "name": "ハット作者を頭にのせる",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "YJRob.png",
             "climbresource": "YJRob_climb.png"
         },
         {
             "name": "白桜",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SiroSakura_adaptive.png",
             "climbresource": "SiroSakura_adaptive_climb.png",
             "adaptive": true
@@ -703,12 +809,14 @@
         {
             "name": "黒桜",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "KuroSakura_adaptive.png",
             "adaptive": true
         },
         {
             "name": "白黒桜",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "SiroKuroSakura_adaptive.png",
             "climbresource": "SiroKuroSakura_adaptive.png",
             "adaptive": true
@@ -716,6 +824,7 @@
         {
             "name": "YJ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "YJ_adaptive.png",
             "climbresource": "YJ_adaptive_climb.png",
             "flipresource": "YJ_adaptive_flip.png",
@@ -724,6 +833,7 @@
         {
             "name":"QRコード",
             "author":"やちゃじゃくや",
+            "package": "YJCos",
             "condition": "None",
             "resource": "QRCode_YJCos.png",
             "flipresource": "QRCode_YJCos_flip.png",
@@ -732,18 +842,21 @@
         {
             "name": "ダイヤピッケル",
             "author": "竹饅",
+            "package": "TOP_Cos",
             "resource": "T-Pickaxe.png",
             "climbresource": "T-Pickaxe_climb.png"
         },
         {
             "name": "Defeat",
             "author": "竹饅",
+            "package": "TOP_Cos",
             "resource": "Defeat.png",
             "adaptive": true
         },
         {
             "name": "ironpick",
             "author": "竹饅",
+            "package": "TOP_Cos",
             "resource": "IronPickaxe_adaptive.png",
             "climbresource": "IronPickaxe_adaptive_climb.png",
             "adaptive": true
@@ -751,12 +864,14 @@
         {
             "name": "眠い",
             "author": "竹饅",
+            "package": "TOP_Cos",
             "resource": "T-Sleepy_adaptive.png",
             "adaptive": true
         },
         {
             "name": "剣と盾",
             "author": "竹饅",
+            "package": "TOP_Cos",
             "resource": "swordshield_adaptive.png",
             "backresource": "swordshield_adaptive_back.png",
             "climbresource": "swordshield_adaptive_climb.png",

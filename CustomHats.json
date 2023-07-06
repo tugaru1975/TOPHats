@@ -625,7 +625,7 @@
             "climbresource":"UNI_climb.png"
         },
         {
-            "name":"ボム兵",
+            "name":"ボム兵（欠席）",
             "author":"やちゃじゃくや",
             "package": "YJCos",
             "condition":"None",
@@ -649,7 +649,7 @@
             "climbresource":"HattersHat_climb.png"
         },
         {
-            "name":"はちはち",
+            "name":"はちはち（59）",
             "author":"やちゃじゃくや",
             "package": "YJCos",
             "condition": "None",

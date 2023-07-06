@@ -265,6 +265,7 @@
         {
             "name": "宇宙人だよ",
             "author": "やちゃじゃくや",
+            "package": "YJCos",
             "resource": "nayutan_adaptive.png",
             "climbresource": "nayutan_adaptive_climb.png",
             "adaptive": true

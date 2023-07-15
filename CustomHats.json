@@ -799,6 +799,41 @@
             "resource": "YJRob.png",
             "climbresource": "YJRob_climb.png"
         },
+	    {
+            "name": "名実ともに最強",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "BlackImposter.png",
+            "climbresource": "BlackImposter_climb.png"
+        },
+	{
+            "name": "引き絞って",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "Bow_adaptive.png",
+            "adaptive": true
+        },
+	{
+            "name": "キャンドルライター",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "CandleLighter.png",
+            "adaptive": true
+        },
+	{
+            "name": "暑さをしのぐ",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "IceCandy.png",
+            "adaptive": true
+        },
+	{
+            "name": "しらす",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "Sirasu.png",
+            "climbresource": "Sirasu_climb.png"
+        },
         {
             "name": "白桜",
             "author": "やちゃじゃくや",
@@ -819,7 +854,7 @@
             "author": "やちゃじゃくや",
             "package": "YJCos",
             "resource": "SiroKuroSakura_adaptive.png",
-            "climbresource": "SiroKuroSakura_adaptive.png",
+            "climbresource": "SiroKuroSakura_adaptive_climb.png",
             "adaptive": true
         },
         {

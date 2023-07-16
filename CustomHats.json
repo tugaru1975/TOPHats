@@ -834,6 +834,42 @@
             "resource": "Sirasu.png",
             "climbresource": "Sirasu_climb.png"
         },
+	{
+            "name": "隊列のリーダー",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "SiroKuroSakura_adaptive.png",
+            "climbresource": "SiroKuroSakura_adaptive.png",
+            "adaptive": true
+        },
+	{
+            "name": "謎に包まれ",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": MysteryCrew.png",
+            "climbresource": "MysteryCrew_climb.png"
+        },
+	{
+            "name": "引き寄せ切り",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "FishRod_adaptive.png",
+            "adaptive": true
+        },
+	{
+            "name": "仮想空間のウィンドウ",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "V_Window.png",
+            "adaptive": true
+        },
+	{
+            "name": "むりつむり",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "SnailCrew.png",
+            "climbresource": "SnailCrew_climb.png"
+        },
         {
             "name": "白桜",
             "author": "やちゃじゃくや",
@@ -874,6 +910,14 @@
             "resource": "QRCode_YJCos.png",
             "flipresource": "QRCode_YJCos_flip.png",
             "climbresource": "QRCode_YJCos_climb.png"
+        },
+	{
+            "name": "自作ハット100個達成記念",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "100Hats_aniv.png",
+            "climbresource": "100Hats_aniv_climb.png",
+            "adaptive": true
         },
         {
             "name": "ダイヤピッケル",

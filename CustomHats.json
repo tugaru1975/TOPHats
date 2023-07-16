@@ -861,7 +861,7 @@
             "author": "やちゃじゃくや",
             "package": "YJCos",
             "resource": "V_Window.png",
-            "adaptive": true
+            "climbresource": "V_Window.png"
         },
 	{
             "name": "むりつむり",

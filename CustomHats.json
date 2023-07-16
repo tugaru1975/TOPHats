@@ -846,7 +846,7 @@
             "name": "謎に包まれ",
             "author": "やちゃじゃくや",
             "package": "YJCos",
-            "resource": MysteryCrew.png",
+            "resource": "MysteryCrew.png",
             "climbresource": "MysteryCrew_climb.png"
         },
 	{

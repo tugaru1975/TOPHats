@@ -842,6 +842,14 @@
             "climbresource": "SiroKuroSakura_adaptive.png",
             "adaptive": true
         },
+	 {
+            "name":"バグ",
+            "author":"やちゃじゃくや",
+            "package": "YJCos",
+            "condition":"None",
+            "resource":"Glitch.png",
+            "climbresource":"Glitch_climb.png"
+        },
 	{
             "name": "謎に包まれ",
             "author": "やちゃじゃくや",

@@ -821,6 +821,13 @@
             "adaptive": true
         },
 	{
+            "name": "どこどん",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "MyBachi.png",
+            "adaptive": true
+        },
+	{
             "name": "暑さをしのぐ",
             "author": "やちゃじゃくや",
             "package": "YJCos",

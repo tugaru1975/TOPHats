@@ -886,6 +886,27 @@
             "climbresource": "SnailCrew_climb.png"
         },
         {
+            "name": "Error!",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "YJ_Error.png",
+            "flipresource": "YJ_Error_Flip.png",
+        },
+        {
+            "name": "ここにテキストを入力",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "YJ_Text.png",
+            "flipresource": "YJ_Text_Flip.png",
+        },
+	{
+            "name": "ボックス",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "YJ_Box.png",
+            "climbresource": "YJ_Box.png"
+        },
+        {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "package": "YJCos",

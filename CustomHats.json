@@ -845,8 +845,8 @@
             "name": "隊列のリーダー",
             "author": "やちゃじゃくや",
             "package": "YJCos",
-            "resource": "SiroKuroSakura_adaptive.png",
-            "climbresource": "SiroKuroSakura_adaptive.png",
+            "resource": "Olimer_adaptive.png",
+            "climbresource": "Olimer_adaptive.png",
             "adaptive": true
         },
 	{
@@ -905,6 +905,15 @@
             "package": "YJCos",
             "resource": "YJ_Box.png",
             "climbresource": "YJ_Box.png"
+        },
+        {
+            "name":"色付きはちやま（59）",
+            "author":"やちゃじゃくや",
+            "package": "YJCos",
+            "condition": "None",
+            "resource": "8ee_adaptive.png",
+            "backresource": "8ee_back_adaptive.png",
+            "climbresource": "8ee_climb_adaptive.png"
         },
         {
             "name": "白桜",

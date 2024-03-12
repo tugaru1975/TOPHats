@@ -913,7 +913,8 @@
             "condition": "None",
             "resource": "8ee_adaptive.png",
             "backresource": "8ee_back_adaptive.png",
-            "climbresource": "8ee_climb_adaptive.png"
+            "climbresource": "8ee_climb_adaptive.png",
+            "adaptive": true
         },
         {
             "name": "白桜",
